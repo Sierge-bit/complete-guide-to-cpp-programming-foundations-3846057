@@ -21,7 +21,7 @@ int main(){
     positve = b - a;
     std::cout << "b - a (unsinged) = " << positve << std::endl; 
     
-    //when the code is ran you will see that when we usigned a variable and that varable became a -2 we will get the bianary version of that number. So if the number is negative do not use unsigned.
+    //when the code is ran you will see that when we usigned a variable and that varable became a -2 we will get the bianary version of that number. So if the number is negative do not use unsigned.AM
 
 
 
